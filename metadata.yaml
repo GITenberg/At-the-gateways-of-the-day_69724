@@ -1,0 +1,36 @@
+_repo: At-the-gateways-of-the-day_69724
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fraser, Juliette May
+    gutenberg_agent_id: '55390'
+    url: http://www.gutenberg.org/2009/agents/55390
+creator:
+  author:
+    agent_name: Colum, Padraic
+    alias: Collumb, Patrick
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '893'
+    url: http://www.gutenberg.org/2009/agents/893
+    wikipedia: https://en.wikipedia.org/wiki/Padraic_Colum
+description: ''
+gutenberg_issued: '2023-01-06'
+identifiers:
+  gutenberg: '69724'
+language: en
+pgterms:marc904: https://archive.org/details/afl2930.0001.001.umich.edu/page/II
+pgterms:marc905: 20200106064815colum
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: 'United States: The Hawaiian Legend & Folklore Commission,1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: At the gateways of the day
+url: http://www.gutenberg.org/ebooks/69724
