@@ -5,6 +5,9 @@ contributor:
     agent_name: Fraser, Juliette May
     gutenberg_agent_id: '55390'
     url: http://www.gutenberg.org/2009/agents/55390
+covers:
+- cover_type: archival
+  image_path: 69724-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Colum, Padraic
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/893
     wikipedia: https://en.wikipedia.org/wiki/Padraic_Colum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69724#At-the-gateways-of-the-day
 gutenberg_issued: '2023-01-06'
 identifiers:
   gutenberg: '69724'
